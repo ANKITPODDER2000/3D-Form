@@ -19,7 +19,7 @@ body{
     bottom: -5px;
     z-index: -1;
     background-image: url(img.jpg);
-    filter: blur(5px) hue-rotate(10deg) drop-shadow(10px);
+    filter: blur(5px) hue-rotate(10deg);
 }
 .box{
     position: relative;
